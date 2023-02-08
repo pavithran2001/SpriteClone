@@ -1,0 +1,176 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@700&display=swap');
+
+body{
+    margin: 0px;
+}
+.NavBar
+{
+    height: 90px;
+    background-color: #009b4e;
+    display: flex;
+    justify-content:flex-start;
+    position: fixed;
+    width: 100%;
+}
+.sprite
+{
+    height: 55px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.navnames
+{
+    font-size: 18px;
+    font-weight: 400 !important;
+color: white;
+    font-family: Fantasy;
+  text-decoration: none;
+}
+
+.navnames:hover{
+  border-bottom: 5px solid #000;
+color: #000;
+    padding-bottom: 49px;
+}
+.rabi img{
+    width: 20px;
+    height: 20px;
+}
+.rabi{
+    display: flex;
+    gap: 30px;
+    margin-left: 400px;
+    margin-top: 35px;
+    justify-content:space-evenly;
+    padding-left: 80px;
+}
+.profile{
+    width: 20px;
+  margin-top: -37px;
+  padding-left: 25px;
+}
+.section1{
+    display: flex;
+    width: 100%;
+    height: 377px;
+    background-color: #00B13F;
+    padding-top: 89px;
+    overflow: hidden;
+    
+}
+h1{
+    font-size: 50px;
+}
+.section1_1{
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: normal;
+    font-family: fantasy;
+   }
+.section1_2{
+    padding-top: 0;
+    height: 300px;
+    width: 50%;
+    margin-bottom: 30px;
+   
+}
+
+.img-section2{
+
+    width: 737px;
+    padding-left: 11px;
+
+}
+.section1_1 h1{
+    color: white;
+ margin-left: -105px;
+ margin-top: 70px;
+ font-size: 40px;
+ font-style: italic;
+
+
+}
+.learn{
+    width: 170px;
+    height:44px;
+    margin-left: -180px;
+    color: #009b4e;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 16px;
+}
+.section2_1 {
+    letter-spacing: 5px;
+    font-style: italic;
+    margin-left: 370px;
+    font-weight: bold;
+   margin-top: 46px;
+   font-size: 28px;
+   font-family: fantasy;
+   
+}
+p{
+    margin-left: 370px;
+}
+.section3 img{
+    margin-left: 375px;
+    width: 800px;  
+    height: auto;
+    margin-top: 40px
+    
+
+} 
+.alan{
+    width: 100px;
+}
+.button{
+    background-color: #009b4e;
+}
+.section4{
+    background-color: #F5F5F5;
+    height: 500px;
+}
+.section4 img{
+    height: 500px;
+    width: auto;
+    margin-left: 375px;
+}
+
+.footer{
+    background-color: #009b4e;
+    height: 450px;
+}
+.text1{
+display: flex;
+    padding-top: 75px;
+ padding-left: 500px;
+ color: white;
+    font-family: fantasy;
+    word-spacing: 1.2px;
+font-size: 20px;
+}
+.text2{
+    padding-left: 470px;
+}
+
+.icons{
+    padding-top:0px;
+    padding-left: 590px;
+  display: flex;
+  gap: 14px;
+}
+.sprite_footer{
+    padding-top: 5px;
+   padding-left: 270px;
+}
+.list{
+    float: right;
+    margin-right: 250px;
+    color: white;
+    font-size: 15px;
+    font-family: fantasy;
+    margin-top: -50px;
+}
